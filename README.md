@@ -68,21 +68,6 @@
 - **Result**: Improved response time and environmental protection measures
 - **Tech Stack**: Python, Plotly, Geospatial libraries, Statistical Analysis
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshaygovindareddy&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaygovindareddy&layout=compact&langs_count=8&theme=react"/>
-</div>
-
-## 🏅 Certifications & Achievements
-
-- 🥇 **Advanced Data Science Specialization** - Stanford University
-- 📊 **Tableau Desktop Specialist** - Tableau
-- ☁️ **AWS Certified Cloud Practitioner** - Amazon Web Services
-- 🐍 **Python for Data Science** - IBM
-- 📈 **Google Analytics Individual Qualification** - Google
-
 ## 🤝 Let's Connect!
 
 <div align="center">
