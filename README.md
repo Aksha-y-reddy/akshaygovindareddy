@@ -14,8 +14,8 @@
 
 ## 🎓 Education
 
-- **MS in Data Science** - Stanford University
-- **BS in Computer Science** - UC Berkeley
+- **MS in Data Science** 
+- **BS in Computer Science** 
 
 ## 💼 Professional Experience
 
